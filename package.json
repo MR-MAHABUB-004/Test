@@ -1,5 +1,5 @@
 {
-  "name": "Mahabub.tts",
+  "name": "Mahabub-downloder",
   "version": "2.1.33",
   "description": "download videos from URLs and autocrop",
   "main": "index.js",
